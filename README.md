@@ -14,6 +14,9 @@ Siraj Raval 의 "Intro to Deep Learning Nanodegree course with Udacity" 에 대�
 
 터미널에서 `jupyter notebook` 을 실행하면 브라우저에 코드가 나타납니다
 
+## IPython 
+[ 코드 돌려보기 (Colab) ](https://colab.research.google.com/github/edwithschoolofai/Generative_Adversarial_networks_LIVE/blob/master/EZGAN.ipynb) 
+
 
 ## 참조
 
